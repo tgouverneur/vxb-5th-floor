@@ -1755,7 +1755,43 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
+                },
+                {
+                 "id":21,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                },
+                {
+                 "id":45,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                },
+                {
+                 "id":80,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                },
+                {
+                 "id":93,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                },
                 {
                  "id":11,
                  "properties":[
