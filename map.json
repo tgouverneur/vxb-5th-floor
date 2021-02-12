@@ -331,7 +331,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/map2"
+                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
