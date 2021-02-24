@@ -439,7 +439,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/6thfloor.json#From5th-6"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/6thfloor.json#From5th-6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -457,7 +457,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/6thfloor.json#From5th-5"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/6thfloor.json#From5th-5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -475,7 +475,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/6thfloor.json#From5th-4"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/6thfloor.json#From5th-4"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -493,7 +493,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/6thfloor.json#From5th-3"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/6thfloor.json#From5th-3"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -511,7 +511,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/6thfloor.json#From5th-2"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/6thfloor.json#From5th-2"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -529,7 +529,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/6thfloor.json#From5th-1"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/6thfloor.json#From5th-1"
                 }],
          "type":"tilelayer",
          "visible":false,

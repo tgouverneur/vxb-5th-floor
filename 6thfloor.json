@@ -499,7 +499,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-11"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-11"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -517,7 +517,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-10"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-10"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -535,7 +535,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-9"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-9"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -553,7 +553,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-8"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-8"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -571,7 +571,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-7"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-7"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -589,7 +589,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-6"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-6"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -607,7 +607,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-5"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-5"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -625,7 +625,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-4"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-4"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -643,7 +643,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-3"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-3"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -661,7 +661,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-2"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-2"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -679,7 +679,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/joaogl.github.io\/vxb-5th-floor\/map.json#From6th-1"
+                 "value":"\/_\/global\/tgouverneur.github.io\/vxb-5th-floor\/map.json#From6th-1"
                 }],
          "type":"tilelayer",
          "visible":false,
