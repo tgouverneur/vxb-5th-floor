@@ -28,6 +28,11 @@
                  "value":"vxb-gym"
                 }, 
                 {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -49,6 +54,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"vxb-kitchen"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -74,6 +84,11 @@
                  "value":"vxb-food02"
                 }, 
                 {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -95,6 +110,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"vxb-food01"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -120,6 +140,11 @@
                  "value":"vxb-meeting08"
                 }, 
                 {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -141,6 +166,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"vxb-meeting07"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -166,6 +196,11 @@
                  "value":"vxb-meeting06"
                 }, 
                 {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -187,6 +222,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"vxb-meeting05"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -212,6 +252,11 @@
                  "value":"vxb-meeting04"
                 }, 
                 {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -233,6 +278,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"vxb-meeting03"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -258,6 +308,11 @@
                  "value":"vxb-meeting02"
                 }, 
                 {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -279,6 +334,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"vxb-meeting01"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"jitsiTrigger",
